@@ -1,0 +1,213 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36 Edg/128.0.0.0" version="28.2.5">
+  <diagram name="第 1 页" id="JBucym-4dAFpha61d0uy">
+    <mxGraphModel dx="2485" dy="1430" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="RDSvq61NdhcvyKvho4PH-1" value="AI代码审查系统" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1421" y="20" width="170" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="RDSvq61NdhcvyKvho4PH-2" value="用户管理模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="265" y="124" width="156" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="RDSvq61NdhcvyKvho4PH-3" value="代码审查模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="906" y="124" width="156" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="RDSvq61NdhcvyKvho4PH-4" value="报告生成模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1428" y="124" width="156" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="RDSvq61NdhcvyKvho4PH-5" value="历史管理模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1966" y="124" width="156" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="RDSvq61NdhcvyKvho4PH-6" value="系统管理模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="2488" y="124" width="156" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="RDSvq61NdhcvyKvho4PH-7" value="用户注册" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="20" y="228" width="124" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="RDSvq61NdhcvyKvho4PH-8" value="用户登录" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="194" y="228" width="124" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="RDSvq61NdhcvyKvho4PH-9" value="权限验证" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="368" y="228" width="124" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="RDSvq61NdhcvyKvho4PH-10" value="个人信息管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="542" y="228" width="156" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="RDSvq61NdhcvyKvho4PH-11" value="代码提交" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="748" y="228" width="124" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="RDSvq61NdhcvyKvho4PH-12" value="代码分析" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="922" y="228" width="124" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="RDSvq61NdhcvyKvho4PH-13" value="结果整合" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1096" y="228" width="124" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="RDSvq61NdhcvyKvho4PH-14" value="报告生成" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1270" y="228" width="124" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="RDSvq61NdhcvyKvho4PH-15" value="报告导出" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1444" y="228" width="124" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="RDSvq61NdhcvyKvho4PH-16" value="可视化展示" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1618" y="228" width="140" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="RDSvq61NdhcvyKvho4PH-17" value="历史查询" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1808" y="228" width="124" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="RDSvq61NdhcvyKvho4PH-18" value="记录管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1982" y="228" width="124" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="RDSvq61NdhcvyKvho4PH-19" value="趋势分析" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="2156" y="228" width="124" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="RDSvq61NdhcvyKvho4PH-20" value="系统监控" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="2330" y="228" width="124" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="RDSvq61NdhcvyKvho4PH-21" value="配置管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="2504" y="228" width="124" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="RDSvq61NdhcvyKvho4PH-22" value="日志管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="2678" y="228" width="124" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="RDSvq61NdhcvyKvho4PH-23" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.57;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="RDSvq61NdhcvyKvho4PH-1" target="RDSvq61NdhcvyKvho4PH-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="343" y="99" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RDSvq61NdhcvyKvho4PH-24" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.66;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="RDSvq61NdhcvyKvho4PH-1" target="RDSvq61NdhcvyKvho4PH-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="984" y="99" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RDSvq61NdhcvyKvho4PH-25" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="RDSvq61NdhcvyKvho4PH-1" target="RDSvq61NdhcvyKvho4PH-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RDSvq61NdhcvyKvho4PH-26" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.65;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="RDSvq61NdhcvyKvho4PH-1" target="RDSvq61NdhcvyKvho4PH-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2044" y="99" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RDSvq61NdhcvyKvho4PH-27" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.58;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="RDSvq61NdhcvyKvho4PH-1" target="RDSvq61NdhcvyKvho4PH-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2566" y="99" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RDSvq61NdhcvyKvho4PH-28" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.79;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="RDSvq61NdhcvyKvho4PH-2" target="RDSvq61NdhcvyKvho4PH-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="82" y="203" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RDSvq61NdhcvyKvho4PH-29" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.21;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="RDSvq61NdhcvyKvho4PH-2" target="RDSvq61NdhcvyKvho4PH-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="256" y="203" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RDSvq61NdhcvyKvho4PH-30" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.79;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="RDSvq61NdhcvyKvho4PH-2" target="RDSvq61NdhcvyKvho4PH-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="430" y="203" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RDSvq61NdhcvyKvho4PH-31" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.77;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="RDSvq61NdhcvyKvho4PH-2" target="RDSvq61NdhcvyKvho4PH-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="620" y="203" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RDSvq61NdhcvyKvho4PH-32" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.93;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="RDSvq61NdhcvyKvho4PH-3" target="RDSvq61NdhcvyKvho4PH-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="810" y="203" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RDSvq61NdhcvyKvho4PH-33" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="RDSvq61NdhcvyKvho4PH-3" target="RDSvq61NdhcvyKvho4PH-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RDSvq61NdhcvyKvho4PH-34" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.93;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="RDSvq61NdhcvyKvho4PH-3" target="RDSvq61NdhcvyKvho4PH-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1158" y="203" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RDSvq61NdhcvyKvho4PH-35" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.93;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="RDSvq61NdhcvyKvho4PH-4" target="RDSvq61NdhcvyKvho4PH-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1332" y="203" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RDSvq61NdhcvyKvho4PH-36" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="RDSvq61NdhcvyKvho4PH-4" target="RDSvq61NdhcvyKvho4PH-15">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RDSvq61NdhcvyKvho4PH-37" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.91;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="RDSvq61NdhcvyKvho4PH-4" target="RDSvq61NdhcvyKvho4PH-16">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1688" y="203" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RDSvq61NdhcvyKvho4PH-38" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.93;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="RDSvq61NdhcvyKvho4PH-5" target="RDSvq61NdhcvyKvho4PH-17">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1870" y="203" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RDSvq61NdhcvyKvho4PH-39" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="RDSvq61NdhcvyKvho4PH-5" target="RDSvq61NdhcvyKvho4PH-18">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RDSvq61NdhcvyKvho4PH-40" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.93;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="RDSvq61NdhcvyKvho4PH-5" target="RDSvq61NdhcvyKvho4PH-19">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2218" y="203" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RDSvq61NdhcvyKvho4PH-41" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.93;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="RDSvq61NdhcvyKvho4PH-6" target="RDSvq61NdhcvyKvho4PH-20">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2392" y="203" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RDSvq61NdhcvyKvho4PH-42" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="RDSvq61NdhcvyKvho4PH-6" target="RDSvq61NdhcvyKvho4PH-21">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RDSvq61NdhcvyKvho4PH-43" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.93;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="RDSvq61NdhcvyKvho4PH-6" target="RDSvq61NdhcvyKvho4PH-22">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2740" y="203" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
